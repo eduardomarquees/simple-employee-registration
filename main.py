@@ -1,4 +1,4 @@
-# Simples sistema de cadastramento de funcionários
+# Sistema de cadastramento de funcionários
 
 class Funcionario:
     def __init__(self, nome, idade, cpf, matricula, cargo, nascimento):
